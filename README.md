@@ -1,7 +1,7 @@
-<h1 align="center">👋 Merhaba, ben Hüseyin Can Yılmaz </h1>
+<h1 align="center">👋 Merhaba, ben Hüseyin Can Yılmaz (hcy7575)</h1>
 
 <p align="center">
-🔐 Cybersecurity | 🧠 Network Security | 🌱 IoT Security | 💻 Linux | 🛡️ FortiGate
+🔐 Cybersecurity Engineer | 🧠 Red & Blue Team | 🌐 Network Security | 🌱 IoT Security | 💻 Linux | 🛡️ FortiGate
 </p>
 
 ---
@@ -9,22 +9,23 @@
 ## 🇹🇷 Hakkımda
 
 Merhaba! Ben Hüseyin Can Yılmaz.  
-Bilgisayar Mühendisliği mezunuyum ve siber güvenlik alanında kariyerimi şekillendiriyorum.  
-Turkcell, Efesan Group ve Ld Yazılım’daki staj deneyimlerim sayesinde ağ güvenliği, güvenlik cihazları, sızma testleri ve olay müdahalesi alanlarında uygulamalı bilgi kazandım.  
+Bilgisayar Mühendisliği mezunuyum (%100 İngilizce eğitim).  
+Siber güvenlik alanında hem **Red Team (saldırı)** hem de **Blue Team (savunma)** tarafında çalışıyorum.  
+Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ağ güvenliği**, **sızma testleri**, **zafiyet analizi** ve **olay müdahalesi** konularında uygulamalı deneyim kazandım.  
 
 🧩 Deneyim Alanlarım:
-- FortiGate üzerinde VLAN, zone ve policy yapılandırmaları  
-- IPSec Site-to-Site VPN, Web Filtering, Application Control, IPS Signature  
-- Tenable Nessus ve OpenVAS ile zafiyet analizi  
-- HPE Aruba 2930F switch konfigürasyonu ve ağ diyagramları  
-- TLS ile güvenli MQTT iletişimi ve IoT cihaz güvenliği  
+- **FortiGate güvenlik duvarları** üzerinde VLAN, zone, policy ve NAT yapılandırmaları  
+- **IPSec Site-to-Site VPN**, **FortiGuard Web Filtering**, **Application Control** ve özel IPS imzaları  
+- **Tenable Nessus** ve **OpenVAS** ile zafiyet analizi ve güvenlik raporlaması  
+- **Cisco** ve **HPE Aruba switchler** üzerinde ağ topolojisi ve segmentasyon  
+- **TLS tabanlı MQTT iletişimi** ve IoT sistemlerinde güvenli veri aktarımı  
 
 🎓 Eğitim:
-- Bilgisayar Mühendisliği – **Çukurova Üniversitesi**  
-- Bilgisayar Bilimleri (Erasmus+)**– **Lublin University of Technology (Polonya)**  
+- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
+- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
 
 💡 İlgi Alanlarım:  
-Red Teaming · FortiGate · IoT Security · Network Defense · Linux · Cryptography
+Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · Linux · Cryptography
 
 📫 Bana ulaş:  
 - 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
@@ -35,22 +36,23 @@ Red Teaming · FortiGate · IoT Security · Network Defense · Linux · Cryptogr
 
 ## 🇬🇧 About Me
 
-Hi there! I’m **Hüseyin Can Yılmaz**, a recent **Computer Engineering graduate** with a strong passion for **cybersecurity**.  
-Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, I’ve gained practical experience in **network defense, vulnerability management**, and **secure system design**.
+Hi there! I’m **Hüseyin Can Yılmaz**, a **Computer Engineering graduate** (100% English-taught program).  
+I specialize in both **Red Teaming** and **Blue Teaming**, combining offensive and defensive security practices to strengthen network infrastructures.  
+Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, I’ve gained practical experience in **network defense**, **penetration testing**, **vulnerability management**, and **incident response**.  
 
 🧩 Key Skills:
-- Configuring **FortiGate firewalls** with VLAN segmentation, zones, and security policies  
-- Implementing **IPSec VPN**, **FortiGuard Web Filtering**, and **Application Control**  
-- Conducting vulnerability assessments with **Tenable Nessus** and **OpenVAS**  
-- Managing and monitoring **HA FortiGate clusters** with zero downtime  
-- Developing secure IoT systems with **TLS-based MQTT communication**
+- Configuring **FortiGate firewalls**: VLAN segmentation, zones, NAT, and security policies  
+- Implementing **IPSec VPN**, **FortiGuard Web Filtering**, and **custom IPS signatures**  
+- Conducting vulnerability assessments using **Tenable Nessus** and **OpenVAS**  
+- Designing and managing network topologies on **Cisco** and **HPE Aruba** switches  
+- Developing **secure IoT systems** using MQTT with **TLS encryption**  
 
 🎓 Education:
-- **B.Sc. in Computer Engineering** – Çukurova University  
-- **B.Sc. in Computer Science (Erasmus+)** – Lublin University of Technology, Poland  
+- **Computer Engineering** – Çukurova University ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
+- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
 
 💡 Interests:
-Red Team Operations · Network Security · IoT Security · FortiGate · Linux · Cryptography
+Red & Blue Team Operations · Network Security · FortiGate · IoT Security · Linux · Cryptography
 
 📫 Contact Me:  
 - 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
@@ -65,6 +67,8 @@ Red Team Operations · Network Security · IoT Security · FortiGate · Linux ·
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-1C75BC?style=flat-square&logo=tenable&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=flat-square&logo=openvas&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Aruba](https://img.shields.io/badge/HPE%20Aruba-F58220?style=flat-square&logo=hewlettpackardenterprise&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -83,5 +87,5 @@ Red Team Operations · Network Security · IoT Security · FortiGate · Linux ·
 ---
 
 ## ⚡ Fun Quote
-> “Continuous learning is the foundation of strong security.”  
+> “Bridging offensive and defensive security through continuous learning.”  
 > — Hüseyin Can Yılmaz
