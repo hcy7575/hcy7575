@@ -4,9 +4,9 @@
 🔐 Cybersecurity Engineer | 🧠 Red & Blue Team | 🌐 Network Security | 🌱 IoT Security | 💻 Linux | 🛡️ FortiGate
 </p>
 
-<!-- Başlangıç animasyonu -->
+<!-- Başlangıç Animasyonu -->
 <p align="center">
-  <img src="assets/animation/cyber-security-intro.gif" alt="Cybersecurity Animation" width="300"/>
+  <img src="assets/1000 Life Hacks.gif" alt="Life Hacks Animation" width="400"/>
 </p>
 
 ---
