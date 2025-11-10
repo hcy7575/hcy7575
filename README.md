@@ -20,8 +20,8 @@ Turkcell, Efesan Group ve Ld Yazılım’daki staj deneyimlerim sayesinde ağ g�
 - TLS ile güvenli MQTT iletişimi ve IoT cihaz güvenliği  
 
 🎓 Eğitim:
-- Bilgisayar Mühendisliği Lisansı – **Çukurova Üniversitesi**  
-- Bilgisayar Bilimleri Değişim Programı – **Lublin University of Technology (Polonya)**  
+- Bilgisayar Mühendisliği – **Çukurova Üniversitesi**  
+- Bilgisayar Bilimleri (Erasmus+)**– **Lublin University of Technology (Polonya)**  
 
 💡 İlgi Alanlarım:  
 Red Teaming · FortiGate · IoT Security · Network Defense · Linux · Cryptography
@@ -47,7 +47,7 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 
 🎓 Education:
 - **B.Sc. in Computer Engineering** – Çukurova University  
-- **B.Sc. in Computer Science (Exchange)** – Lublin University of Technology, Poland  
+- **B.Sc. in Computer Science (Erasmus+)** – Lublin University of Technology, Poland  
 
 💡 Interests:
 Red Team Operations · Network Security · IoT Security · FortiGate · Linux · Cryptography
