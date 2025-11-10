@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Hüseyin Can Yılmaz (hcy7575)</h1>
+<h1 align="center">👋 Merhaba, ben Hüseyin Can Yılmaz </h1>
 
 <p align="center">
 🔐 Cybersecurity | 🧠 Network Security | 🌱 IoT Security | 💻 Linux | 🛡️ FortiGate
