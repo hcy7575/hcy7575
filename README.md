@@ -4,6 +4,11 @@
 🔐 Cybersecurity Engineer | 🧠 Red & Blue Team | 🌐 Network Security | 🌱 IoT Security | 💻 Linux | 🛡️ FortiGate
 </p>
 
+<!-- Başlangıç animasyonu -->
+<p align="center">
+  <img src="assets/animation/cyber-security-intro.gif" alt="Cybersecurity Animation" width="300"/>
+</p>
+
 ---
 
 ## 🇹🇷 Hakkımda
@@ -12,6 +17,11 @@ Merhaba! Ben Hüseyin Can Yılmaz.
 Bilgisayar Mühendisliği mezunuyum (%100 İngilizce eğitim).  
 Siber güvenlik alanında hem **Red Team (saldırı)** hem de **Blue Team (savunma)** tarafında çalışıyorum.  
 Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ağ güvenliği**, **sızma testleri**, **zafiyet analizi** ve **olay müdahalesi** konularında uygulamalı deneyim kazandım.  
+
+<!-- Hakkımda animasyonu -->
+<p align="center">
+  <img src="assets/animation/about-me.gif" alt="About Me Animation" width="350"/>
+</p>
 
 🧩 Deneyim Alanlarım:
 - **FortiGate güvenlik duvarları** üzerinde VLAN, zone, policy ve NAT yapılandırmaları  
@@ -39,6 +49,11 @@ Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · 
 Hi there! I’m **Hüseyin Can Yılmaz**, a **Computer Engineering graduate** (100% English-taught program).  
 I specialize in both **Red Teaming** and **Blue Teaming**, combining offensive and defensive security practices to strengthen network infrastructures.  
 Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, I’ve gained practical experience in **network defense**, **penetration testing**, **vulnerability management**, and **incident response**.  
+
+<!-- About Me animasyonu -->
+<p align="center">
+  <img src="assets/animation/about-me-en.gif" alt="About Me Animation EN" width="350"/>
+</p>
 
 🧩 Key Skills:
 - Configuring **FortiGate firewalls**: VLAN segmentation, zones, NAT, and security policies  
@@ -70,6 +85,11 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Arbor Networks](https://img.shields.io/badge/Arbor-A10-FF6F00?style=flat-square&logo=none&logoColor=white)
 
+<!-- Tools animasyonu -->
+<p align="center">
+  <img src="assets/animation/tools-tech.gif" alt="Tools & Technologies Animation" width="300"/>
+</p>
+
 ### 🌐 Networking & Devices
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![HPE Aruba](https://img.shields.io/badge/HPE%20Aruba-F58220?style=flat-square&logo=hewlettpackardenterprise&logoColor=white)
@@ -96,7 +116,6 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 ![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=flat-square&logo=none&logoColor=white)
 ![TLS](https://img.shields.io/badge/TLS-0066CC?style=flat-square&logo=none&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Statistics
@@ -109,3 +128,8 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 ## ⚡ Fun Quote
 > “Bridging offensive and defensive security through continuous learning.”  
 > — Hüseyin Can Yılmaz
+
+<!-- Fun Quote animasyonu -->
+<p align="center">
+  <img src="assets/animation/fun-quote.gif" alt="Fun Quote Animation" width="300"/>
+</p>
