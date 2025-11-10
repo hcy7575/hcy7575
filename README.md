@@ -45,6 +45,10 @@ Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · 
 - 🌐 [GitHub](https://github.com/hcy7575)
 
 ---
+ <!-- Insights Animation (Tools & Technologies öncesi) -->
+<p align="center">
+  <img src="assets/Gain%20valuable%20insights%20into%20cyber%20security%20through%E2%80%A6.gif" alt="Cyber Insights Animation" width="400"/>
+</p>
 
 ## 🇬🇧 About Me
 
@@ -73,10 +77,6 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 
 ---
 
-<!-- Insights Animation (Tools & Technologies öncesi) -->
-<p align="center">
-  <img src="assets/Gain%20valuable%20insights%20into%20cyber%20security%20through%E2%80%A6.gif" alt="Cyber Insights Animation" width="400"/>
-</p>
 
 ## 🧰 Tools & Technologies
 
