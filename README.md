@@ -18,9 +18,10 @@ Bilgisayar Mühendisliği mezunuyum (%100 İngilizce eğitim).
 Siber güvenlik alanında hem **Red Team (saldırı)** hem de **Blue Team (savunma)** tarafında çalışıyorum.  
 Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ağ güvenliği**, **sızma testleri**, **zafiyet analizi** ve **olay müdahalesi** konularında uygulamalı deneyim kazandım.  
 
-<!-- Hakkımda animasyonu -->
+
+<!-- Cyber Security Animasyonu -->
 <p align="center">
-  <img src="assets/animation/about-me.gif" alt="About Me Animation" width="350"/>
+  <img src="assets/Cyber Security.gif" alt="Cyber Security Animation" width="400"/>
 </p>
 
 🧩 Deneyim Alanlarım:
@@ -50,10 +51,7 @@ Hi there! I’m **Hüseyin Can Yılmaz**, a **Computer Engineering graduate** (1
 I specialize in both **Red Teaming** and **Blue Teaming**, combining offensive and defensive security practices to strengthen network infrastructures.  
 Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, I’ve gained practical experience in **network defense**, **penetration testing**, **vulnerability management**, and **incident response**.  
 
-<!-- About Me animasyonu -->
-<p align="center">
-  <img src="assets/animation/about-me-en.gif" alt="About Me Animation EN" width="350"/>
-</p>
+
 
 🧩 Key Skills:
 - Configuring **FortiGate firewalls**: VLAN segmentation, zones, NAT, and security policies  
@@ -129,7 +127,4 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 > “Bridging offensive and defensive security through continuous learning.”  
 > — Hüseyin Can Yılmaz
 
-<!-- Fun Quote animasyonu -->
-<p align="center">
-  <img src="assets/animation/fun-quote.gif" alt="Fun Quote Animation" width="300"/>
-</p>
+
