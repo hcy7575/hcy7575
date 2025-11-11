@@ -122,6 +122,7 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 ## ⚡ Fun Quote
 <p align="center">
   <i>“Bridging offensive and defensive security through continuous learning.”</i>
+  <br>
   <i>H. Can Yılmaz</i>
 </p>
 
