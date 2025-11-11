@@ -123,7 +123,7 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 <p align="center">
   <i>“Bridging offensive and defensive security through continuous learning.”</i>
   <br>
-  **H. Can YILMAZ**
+  <strong>"H. Can YILMAZ"</strong>
 </p>
 
 <!-- Terminal Animasyonu (Fun Quote sonrası) -->
