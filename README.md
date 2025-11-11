@@ -42,7 +42,6 @@ Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · 
 📫 **Bana ulaş:**  
 - 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hsyn-can-ylmz1/)  
-- 🌐 [GitHub](https://github.com/hcy7575)
 
 ---
 
@@ -69,7 +68,6 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 📫 **Contact Me**  
 - 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hsyn-can-ylmz1/)  
-- 🌐 [GitHub](https://github.com/hcy7575)
 
 ---
 
