@@ -5,10 +5,6 @@
 </p>
 
 ---
-<!-- Profil Ziyaretçi Sayacı -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hcy7575&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
 
 <!-- Başlangıç Animasyonu (Cyber Security) -->
 <p align="center">
@@ -131,4 +127,9 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 <!-- Terminal Animasyonu (Fun Quote sonrası) -->
 <p align="center">
   <img src="assets/term.gif" alt="Terminal Animation" width="400"/>
+</p>
+
+<!-- Profil Ziyaretçi Sayacı -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hcy7575&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
