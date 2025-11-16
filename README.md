@@ -33,8 +33,8 @@ Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ağ güvenl
 - **TLS tabanlı MQTT iletişimi** ve IoT sistemlerinde güvenli veri aktarımı  
 
 🎓 **Eğitim**  
-- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  **Final Notu:** **(3.25/4.00)**
-- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  **Final Notu:** **(4.83/5.00)**
+- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr)) >>  **Final Notu:** **(3.25/4.00)**
+- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl)) >> **Final Notu:** **(4.83/5.00)**
 
 💡 **İlgi Alanlarım**  
 Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · Linux · Cryptography
@@ -59,8 +59,8 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 - Developing **secure IoT systems** using MQTT with **TLS encryption**  
 
 🎓 **Education**  
-- **Computer Engineering** – Çukurova University ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
-- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
+- **Computer Engineering** – Çukurova University ([bmb.cu.edu.tr](https://bmb.cu.edu.tr)) >> **Final Grade:** **(3.25/4.00)**
+- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl)) >> **Final Grade:** **(4.83/5.00)**
 
 💡 **Interests**  
 Red & Blue Team Operations · Network Security · FortiGate · IoT Security · Linux · Cryptography
