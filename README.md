@@ -33,8 +33,8 @@ Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ağ güvenl
 - **TLS tabanlı MQTT iletişimi** ve IoT sistemlerinde güvenli veri aktarımı  
 
 🎓 **Eğitim**  
-- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
-- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
+- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  **Final Notu:** **(3.25/4.00)**
+- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  **Final Notu:** **(4.83/5.00)**
 
 💡 **İlgi Alanlarım**  
 Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · Linux · Cryptography
