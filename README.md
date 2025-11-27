@@ -131,8 +131,9 @@ Red & Blue Team Operations · Network Security · FortiGate · IoT Security · L
 
 <!-- Profil Ziyaretçi Sayacı -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hcy7575" />
+  <img src="https://render.githubusercontent.com/render/math?math=.%0A%3Cimg%20src%3D%22https%3A//komarev.com/ghpvc/%3Fusername%3Dhcy7575%22%3E" />
 </p>
+
 
 
 
