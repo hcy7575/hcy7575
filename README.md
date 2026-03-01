@@ -31,9 +31,9 @@ Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ArcSight SI
 
 ---
 
-🎓 **Eğitim**  
-- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
-- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
+🎓 **Eğitim** 
+- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi, Adana, Türkiye ([bmb.cu.edu.tr](https://bmb.cu.edu.tr)) >> **Diploma Notu:** (3.25/4.00)  
+- **Computer Science (Erasmus+)** – Lublin University of Technology, Lublin, Polonya ([weii.pollub.pl](https://weii.pollub.pl)) >> **Diploma Notu:** (4.83/5.00) 
 
 ---
 
@@ -64,9 +64,9 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 
 ---
 
-🎓 **Education**  
-- **Computer Engineering** – Çukurova University ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
-- **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
+🎓 **Education** 
+- **Computer Engineering** – Çukurova University, Adana, Türkiye ([bmb.cu.edu.tr](https://bmb.cu.edu.tr)) >> **Graduation Score** (3.25/4.00)  
+- **Computer Science (Erasmus+)** – Lublin University of Technology, Lublin, Poland ([weii.pollub.pl](https://weii.pollub.pl)) >> **Graduation Score** (4.83/5.00)
 
 ---
 
