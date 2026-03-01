@@ -38,7 +38,8 @@ Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ArcSight SI
 ---
 
 💡 **İlgi Alanlarım**
-Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · Linux · Cryptography
+
+-> Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · Linux · Cryptography
 
 ---
 
@@ -71,7 +72,8 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 ---
 
 💡 **Interests**
-Red & Blue Team Operations · Network Security · FortiGate · IoT Security · Linux · Cryptography
+
+-> Red & Blue Team Operations · Network Security · FortiGate · IoT Security · Linux · Cryptography
 
 ---
 
