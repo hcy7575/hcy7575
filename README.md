@@ -74,13 +74,6 @@ I specialize in **Enterprise Network Defense** and **Security Operations (SOC)**
 - **Cisco Networking Academy:** Linux Essentials, Networking Basics, and IT Essentials
 - **StationX:** The Complete Cyber Security Specialist
 
----
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hcy7575&show_icons=true&theme=tokyonight&count_private=true" alt="Huseyin's GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcy7575&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
