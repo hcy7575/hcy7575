@@ -29,12 +29,21 @@ Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ArcSight SI
 - **Vulnerability Management:** Tenable Nessus ve OpenVAS ile zafiyet analizi ve güvenlik raporlaması.  
 - **Perimeter Hardening:** Özel IPS imzaları geliştirme, FortiGuard Web Filtering ve Application Control politikaları optimizasyonu.  
 
-🎓 **Eğitim** - **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
+---
+
+🎓 **Eğitim**  
+- **Bilgisayar Mühendisliği** – Çukurova Üniversitesi ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
 - **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
 
-💡 **İlgi Alanlarım** Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · Linux · Cryptography
+---
 
-📫 **Bana ulaş:** - 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
+💡 **İlgi Alanlarım**
+Red Teaming · Blue Teaming · Network Security · FortiGate · IoT Security · Linux · Cryptography
+
+---
+
+📫 **Bana ulaş:**
+- 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hsyn-can-ylmz1/)  
 
 ---
@@ -45,18 +54,29 @@ Hi there! I’m **Hüseyin Can Yılmaz**, a **Computer Engineering graduate** (1
 I specialize in **Enterprise Network Defense** and **Security Operations (SOC)**.  
 Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, I’ve gained practical experience managing security events with **ArcSight SIEM**, mitigating DDoS attacks on **Arbor/A10** platforms, and designing resilient network infrastructures using **FortiGate**. I combine offensive (**Red Team**) and defensive (**Blue Team**) security practices to strengthen large-scale enterprise environments.  
 
-🧩 **Key Skills** - **SOC Operations & Monitoring:** Real-time event monitoring, analysis, and threat detection using ArcSight SIEM.  
+---
+🧩 **Key Skills** 
+- **SOC Operations & Monitoring:** Real-time event monitoring, analysis, and threat detection using ArcSight SIEM.  
 - **DDoS Mitigation:** Network traffic analysis and anomaly prevention on Arbor and A10 platforms.  
 - **Network Architecture:** Configuring HA (Active-Passive) clustering, VLAN segmentation, and IPSec VPN on FortiGate firewalls.  
 - **Vulnerability Management:** Conducting vulnerability assessments and reporting using Tenable Nessus and OpenVAS.  
 - **Perimeter Hardening:** Developing custom IPS signatures and optimizing FortiGuard Web Filtering and Application Control policies.  
 
-🎓 **Education** - **Computer Engineering** – Çukurova University ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
+---
+
+🎓 **Education**  
+- **Computer Engineering** – Çukurova University ([bmb.cu.edu.tr](https://bmb.cu.edu.tr))  
 - **Computer Science (Erasmus+)** – Lublin University of Technology, Poland ([weii.pollub.pl](https://weii.pollub.pl))  
 
-💡 **Interests** Red & Blue Team Operations · Network Security · FortiGate · IoT Security · Linux · Cryptography
+---
 
-📫 **Contact Me** - 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
+💡 **Interests**
+Red & Blue Team Operations · Network Security · FortiGate · IoT Security · Linux · Cryptography
+
+---
+
+📫 **Contact Me** 
+- 📧 [hcy.75.btm@gmail.com](mailto:hcy.75.btm@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hsyn-can-ylmz1/)  
 
 ---
