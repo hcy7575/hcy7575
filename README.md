@@ -23,7 +23,8 @@ Turkcell, Efesan Group ve Ld Yazılım’daki stajlarım sayesinde **ArcSight SI
   <img src="assets/1000%20Life%20Hacks.gif" alt="Life Hacks Animation" width="400"/>
 </p>
 
-🧩 **Deneyim Alanlarım** - **SOC Operations & Monitoring:** ArcSight SIEM ile gerçek zamanlı olay izleme, analiz ve tehdit tespiti.  
+🧩 **Deneyim Alanlarım**
+- **SOC Operations & Monitoring:** ArcSight SIEM ile gerçek zamanlı olay izleme, analiz ve tehdit tespiti.  
 - **DDoS Mitigation:** Arbor ve A10 platformları üzerinden ağ trafiği analizi ve anomali engelleme.  
 - **Network Architecture:** FortiGate güvenlik duvarları üzerinde PNETLab ortamında HA (Active-Passive), VLAN segmentasyonu ve IPSec VPN yapılandırmaları.  
 - **Vulnerability Management:** Tenable Nessus ve OpenVAS ile zafiyet analizi ve güvenlik raporlaması.  
