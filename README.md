@@ -127,6 +127,13 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 
 ---
 
+## 📜 Certifications
+- [cite_start]**Cisco Networking Academy:** Professional Cybersecurity Pathway (Ethical Hacking, Network Defense, Endpoint Security) [cite: 20]
+- [cite_start]**Cisco Networking Academy:** Linux Essentials, Networking Basics, and IT Essentials [cite: 20]
+- [cite_start]**StationX:** The Complete Cyber Security Specialist [cite: 21]
+- [cite_start]**Bilişim Academy:** Wireshark Network Analysis Training
+
+  
 ## ⚡ Fun Quote
 <p align="center">
   <i>“Bridging offensive and defensive security through continuous learning.”</i>
