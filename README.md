@@ -134,7 +134,7 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 
 [![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity_Pathway-005A70?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/hsyn-can-ylmzı/) 
 <br>**Cisco Networking Academy:** Professional Cybersecurity Pathway : *Ethical Hacking, Network Defense, Endpoint Security, *
-<br>*Linux Essentials, Networking Basics, and IT Essentials*
+<br>**Cisco Networking Academy:** *Linux Essentials, Networking Basics, and IT Essentials*
 
 [![StationX](https://img.shields.io/badge/StationX-Security_Specialist-black?style=for-the-badge&logo=target&logoColor=red)](https://www.linkedin.com/in/hsyn-can-ylmzı/) 
 <br>**StationX:** The Complete Cyber Security Specialist Series (Vol 1-4)
