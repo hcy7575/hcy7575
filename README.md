@@ -88,10 +88,18 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 
 ### 🔐 Security & Monitoring
 ![ArcSight](https://img.shields.io/badge/ArcSight-SIEM-0073E1?style=flat-square) 
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) 
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white) 
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white) 
+![EDR](https://img.shields.io/badge/EDR-Solutions-333333?style=flat-square)
 ![Nessus](https://img.shields.io/badge/Nessus-1C75BC?style=flat-square&logo=tenable&logoColor=white) 
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=flat-square&logo=openvas&logoColor=white) 
 ![DDoS Mitigation](https://img.shields.io/badge/Arbor%2FA10-DDoS_Mitigation-FF6F00?style=flat-square)
 ![FortiGuard](https://img.shields.io/badge/FortiGuard-Security-EE3124?style=flat-square)
+
+### 🛡️ Frameworks & Methodologies
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=flat-square) 
+![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-000000?style=flat-square) 
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square)
 
 ### 🌐 Networking & Defense
@@ -116,13 +124,6 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
-
-## 📜 Certifications
-- **Cisco Networking Academy:** Professional Cybersecurity Pathway (Ethical Hacking, Network Defense, Endpoint Security)
-- **Cisco Networking Academy:** Linux Essentials, Networking Basics, and IT Essentials
-- **StationX:** The Complete Cyber Security Specialist
 
 ---
 
