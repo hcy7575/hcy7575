@@ -128,11 +128,18 @@ Through my internships at **Turkcell**, **Efesan Group**, and **Ld Yazılım**, 
 ---
 
 ## 📜 Certifications
-- [cite_start]**Cisco Networking Academy:** Professional Cybersecurity Pathway (Ethical Hacking, Network Defense, Endpoint Security) [cite: 20]
-- [cite_start]**Cisco Networking Academy:** Linux Essentials, Networking Basics, and IT Essentials [cite: 20]
-- [cite_start]**StationX:** The Complete Cyber Security Specialist [cite: 21]
-- [cite_start]**Bilişim Academy:** Wireshark Network Analysis Training
 
+[cite_start][![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.linkedin.com/in/hsyn-can-ylmzı/) [cite: 8]
+[cite_start][![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity_Pathway-005A70?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/hsyn-can-ylmzı/) [cite: 20]
+[cite_start][![StationX](https://img.shields.io/badge/StationX-Security_Specialist-black?style=for-the-badge&logo=target&logoColor=red)](https://www.linkedin.com/in/hsyn-can-ylmzı/) [cite: 21]
+
+---
+
+### 🎓 Detailed Education & Training
+- [cite_start]**Bilişim Academy:** Wireshark Network Analysis Training (Hands-on Lab & CTF) [cite: 8]
+- [cite_start]**Cisco Networking Academy:** Professional Cybersecurity Pathway [cite: 20]
+  - [cite_start]*Ethical Hacking, Network Defense, Endpoint Security, Linux Essentials* [cite: 20]
+- [cite_start]**StationX:** The Complete Cyber Security Specialist Series (Vol 1-4) [cite: 21]
   
 ## ⚡ Fun Quote
 <p align="center">
